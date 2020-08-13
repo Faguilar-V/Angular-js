@@ -7,7 +7,7 @@
 
 Debido a que muchas personas se suelen confundir con estos terminos cree un Diagrama de Venn que ilustra la diferencia entre cada uno de estos:
 
-<img src="img/diagrama_venn.png" alt="hi" class="inline"/>
+<img src="diagrama_venn.png" alt="hi" class="inline"/>
 
 El conjunto de datos es dividido en dos subconjuntos principales, los datos de entrenamiento y de prueba.
 Para algunos conjuntos de datos es necesario aplicar técnicas de preprocesamiento como la discretizaci\'on.
