@@ -8,11 +8,13 @@ Debido a que muchas personas se suelen confundir con estos terminos cree un Diag
 
 <img src="diagrama_venn.png" alt="hi" class="inline"/>
 
-#### Ahora que sabes la diferencia entre ML e AI es preciso definir los arboles de decisión como sigue: son un tipo de algoritmo no parametrico dentro del campo del ML usado para resolver tareas de Regresión y Clasificación. 
+#### Ahora que sabes la diferencia entre ML e AI es preciso definir los arboles de decisión como sigue: 
+### Son un tipo de algoritmo no parametrico dentro del campo del ML usado para resolver tareas de Regresión y Clasificación. 
 
 ## Objetivo
-El objetivo es crear un modelo que prediga el valor de una instancia o vector aprendiendo ciertas reglas de decisión inferidas a partir de ejemplos de instancias etiquetadas. A este tipo de tarea de aprendizaje se conoce como Aprendizaje Supervisado
+El objetivo es crear un modelo que prediga el valor de una instancia o vector aprendiendo ciertas reglas de decisión, inferidas a partir de otras instancias etiquetadas. A este tipo de tarea de aprendizaje se le conoce como Aprendizaje Supervisado
 
+## Proceso de aprendizaje
 El conjunto de datos es dividido en dos subconjuntos principales, los datos de entrenamiento y de prueba.
-Para algunos conjuntos de datos es necesario aplicar técnicas de preprocesamiento como la discretizaci\'on.
+Para algunos conjuntos de datos es necesario aplicar técnicas de preprocesamiento como la discretización.
  
