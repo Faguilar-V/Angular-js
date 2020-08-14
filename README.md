@@ -18,6 +18,10 @@ El objetivo es predecir las etiquetas de nuestro conjunto de prueba mediante reg
 Primero el conjunto de datos con el que se trabaja es dividido en dos subconjuntos:
 Datos de entrenamiento y de prueba, generalmente en una proporción 80/20 
 
+
+
+
+
 ## Ventajas
  ### Su principal ventaja es que son faciles de entender e interpretar.
  ### Requiere pocos datos para tener un buen ajuste
